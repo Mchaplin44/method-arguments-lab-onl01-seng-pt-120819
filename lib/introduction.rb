@@ -1,4 +1,4 @@
 def introduction(name)
-  puts "Hi,my name is joh."
+  puts "Hi,my name is josh."
 end
 
